@@ -1,7 +1,7 @@
-### Overview:
+# Overview:
 The College Management System Database project involves designing a database schema to manage various aspects of a college, including departments, faculty, students, courses, classes, and branches. This README provides an overview of the project, its structure, and how to set it up.
 
-### Database Schema:
+# Database Schema:
 The database schema consists of the following tables:
 
 1. **Department**: Stores information about different departments in the college.
@@ -14,7 +14,7 @@ The database schema consists of the following tables:
 
 Each table has its respective fields and relationships defined to maintain data integrity and organization.
 
-### Setup:
+# Setup:
 To set up the College Management System Database:
 
 1. **Database Creation**: Create a new database in MySQL.
@@ -25,7 +25,7 @@ To set up the College Management System Database:
 
 4. **Queries**: Execute queries to retrieve, update, or delete data as needed.
 
-### Usage:
+# Usage:
 Once the database is set up, you can use it to manage various aspects of college administration, including:
 
 - Managing department information.
@@ -36,7 +36,7 @@ Once the database is set up, you can use it to manage various aspects of college
 - Recording student information, including enrollment details and contact information.
 - Assigning classes to faculty members and students.
 
-### Conclusion:
+# Conclusion:
 The College Management System Database provides a structured approach to managing college-related data efficiently. With well-defined tables and relationships, it offers a robust foundation for building applications to streamline college administration tasks.
 
 For detailed information on table structures and sample SQL queries, refer to the project documentation.
@@ -44,4 +44,3 @@ For detailed information on table structures and sample SQL queries, refer to th
 ---
 
 **Note:** This README provides an overview of the project. For detailed setup instructions and SQL queries, refer to the project documentation or associated files.
-"""
